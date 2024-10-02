@@ -1,8 +1,6 @@
-# Mahyad Saadat 
-**`Front-End Developer `**
+# Hi there, I'm Mahyad Saadat 👋
 
-Hi, I'm Mahyad Saadat, a passionate front-end developer with a Bachelor's degree in Software Engineering. I specialize in building dynamic, responsive user interfaces using React and related technologies. My journey in web development has equipped me with a strong foundation in HTML, CSS, JavaScript (JS), TypeScript (TS), and state management tools like Redux.
-In addition to my coding skills, I have experience in graphic design, having completed a previous internship in design. This allows me to bring a unique perspective when it comes to creating intuitive and visually appealing user interfaces.! Currently, I'm seeking an internship to further sharpen my skills and collaborate on exciting projects.
+I'm a passionate **Front-End Developer** with a Bachelor's degree in Software Engineering, aiming to bring beautiful, functional user interfaces to life! Currently, I'm seeking an internship to further sharpen my skills and collaborate on exciting projects.
 
 ---
 
