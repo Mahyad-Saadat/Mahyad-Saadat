@@ -1,7 +1,6 @@
 # Hi there, I'm Mahyad Saadat 👋
 
-I'm  a passionate Full-Stack Developer and Software Engineer with over seven years of hands-on experience in building dynamic and responsive web applications. Proficient in Next.js, Redux, React, and TypeScript, I love transforming complex problems into elegant solutions.
-
+I'm a passionate Software Engineer specialized in Full-Stack Development, with expertise in Next.js, Redux, React, and TypeScript. With over seven years of hands-on experience in building dynamic and responsive web applications. I love transforming complex problems into elegant solutions.
 🌟 My journey in tech has been fueled by a commitment to continuous learning and a passion for crafting seamless user experiences. Whether it's optimizing performance or creating intuitive interfaces, I'm dedicated to delivering top-notch results.
 
 ---
