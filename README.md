@@ -10,8 +10,6 @@ I'm a passionate Software Engineer specialized in Full-Stack Development, with e
 - 🎓 **Degree**: Bachelor's in Software Engineering
 - 💻 **Skills**: Next.js, React, Redux, TypeScript, JavaScript, HTML, CSS
 - 🖌 **Design Tools**: Figma, Photoshop, Illustrator, Adobe XD
-- 🌱 **Learning**: MongoDB, Node.js
-
 ---
 
 ### 🛠 Technologies & Tools:
