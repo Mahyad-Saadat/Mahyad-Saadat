@@ -1,14 +1,17 @@
 # Hi there, I'm Mahyad Saadat 👋
 
-I'm a passionate **Front-End Developer** with a Bachelor's degree in Software Engineering, aiming to bring beautiful, functional user interfaces to life! Currently, I'm seeking an internship to further sharpen my skills and collaborate on exciting projects.
+I'm  a passionate Full-Stack Developer and Software Engineer with over three years of hands-on experience in building dynamic and responsive web applications. Proficient in Next.js, Redux, React, and TypeScript, I love transforming complex problems into elegant solutions.
 
+🌟 My journey in tech has been fueled by a commitment to continuous learning and a passion for crafting seamless user experiences. Whether it's optimizing performance or creating intuitive interfaces, I'm dedicated to delivering top-notch results.
+
+🚀 Let's connect and collaborate on exciting projects!
 ---
 
 ### 🚀 About Me:
 - 🎓 **Degree**: Bachelor's in Software Engineering
-- 💻 **Skills**: React, Redux, TypeScript, JavaScript, HTML, CSS
-- 🖌 **Design Tools**: Photoshop, Illustrator, Adobe XD
-- 🌱 **Learning**: Next.js
+- 💻 **Skills**: Next.js ,React, Redux, TypeScript, JavaScript, HTML, CSS
+- 🖌 **Design Tools**: Figma, Photoshop, Illustrator, Adobe XD
+- 🌱 **Learning**: node.js
 
 ---
 
